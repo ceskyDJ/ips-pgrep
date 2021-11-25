@@ -1,0 +1,6 @@
+# IDE config files
+.idea/
+
+# Build stuff
+build/
+cmake-build-debug/
